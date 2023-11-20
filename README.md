@@ -41,6 +41,11 @@ The frequency of explicit songs in the top 50 globally was graphed in a bar char
 
 Understanding variables that drive song popularity significantly influence playlist curation for both emerging and well established artists. The analysis finds that there is a significance of variables which allows for a song/artist to be popular. Further analysis, especially on the correlation between the variables could enhance the understanding of musical preferences in diverse cultural contexts.
 
+![Alt Text](Graph1.png)
+![Alt Text](Graph2.png)
+![Alt Text](Graph3.png)
+![Alt Text](Graph4.png)
+
 ### Conclusion:
 
 Local and Regional Resonance: The varying appearance counts of Taylor Swift across countries suggest that local and regional artists hold significant sway. While Taylor Swift resonates strongly in English-speaking countries, the lower counts in non-English-speaking countries highlight the influence of local or regional artists and cultural preferences. Similarly, different countries display different preferences when it comes to the popularity of songs with explicit language.
