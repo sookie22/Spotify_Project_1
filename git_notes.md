@@ -13,4 +13,4 @@ git status
 - merge request
 git add [path]
 git commit -m "type message"
-pit push origin [branch_name]
+git push origin [branch_name]
